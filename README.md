@@ -1,3 +1,4 @@
 # Kokoa clone 2022
 
-CSS got so much better.
+This is builded up using only HTML & CSS, not JS.
+Later it will be update plus JS.
